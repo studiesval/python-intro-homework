@@ -13,6 +13,7 @@ Code the Dream's Python Intro program (2026).
 | Assignment 4 | Data structures and loops | [View](https://github.com/studiesval/python-intro-homework/tree/assignment-4/week-4/assignment-4) |
 | Assignment 5 | Search and sorting algorithms | [View](https://github.com/studiesval/python-intro-homework/tree/assignment-5/week-5/assignment-5) |
 | Assignment 6 | Functions and modular programming | [View](https://github.com/studiesval/python-intro-homework/tree/assignment-6/week-6/assignment-6) |
+| Assignment 7 | CSV processing, file handling and report generation | [View](https://github.com/studiesval/python-intro-homework/tree/assignment-7/week-7/assignment-7) |
 
 **Status:** Training in progress. Some assignments
 are awaiting review.
